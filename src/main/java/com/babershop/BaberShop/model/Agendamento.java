@@ -10,6 +10,7 @@ import java.time.LocalDateTime;
 @Entity
 public class Agendamento {
 
+    //teste
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     private Long id;
