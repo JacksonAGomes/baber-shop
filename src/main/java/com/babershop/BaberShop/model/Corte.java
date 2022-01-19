@@ -19,4 +19,6 @@ public class Corte {
     private String nome;
 
     private BigDecimal valor;
+
+    //td(name: TD 9 ;)
 }
