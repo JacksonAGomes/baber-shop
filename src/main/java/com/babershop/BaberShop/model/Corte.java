@@ -28,8 +28,8 @@ public class Corte {
     //td(name: TD 3 ;)
 
 
-    //td(name: TD 1  ;)
-    //td(name: TD 2 ;)
+    //td(name: TD 1 UPDATED;)
+    //td(name: TD 2 UPDATED;)
     //td(name: TD 3 UPDATED;)
 
 
