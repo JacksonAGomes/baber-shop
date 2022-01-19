@@ -23,9 +23,9 @@ public class Corte {
     //td(name: TD 9 ;)
     //td(name: TD 1 outroArquivo.java UPDATED;)
     //td(name: TD 2 ;)
-    //td(name: TD 1 UPDATED;)
-    //td(name: TD 2 UPDATED;)
-    //td(name: TD 3 UPDATED;)
+    //td(name: TD 1 ;)
+    //td(name: TD 2 ;)
+    //td(name: TD 3 ;)
 
 
 }
