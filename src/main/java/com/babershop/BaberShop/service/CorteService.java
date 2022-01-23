@@ -31,5 +31,5 @@ public class CorteService {
         corteRepository.delete(corte);
     }
 
-    //td(name: divida;)
+    //td(name: divida UPDATE;)
 }
