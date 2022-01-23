@@ -23,6 +23,6 @@ public class Corte {
     //td(name: td 3 UPDATE;)
 
 
-    //td(name: td 1;)
+    //td(name: td 1 UPDATE;)
 
 }
