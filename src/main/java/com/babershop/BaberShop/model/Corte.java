@@ -18,10 +18,11 @@ public class Corte {
 
     private String nome;
     private BigDecimal valor;
-
-    //td(name: td 1 up;)
-    //td(name: td 2 up;)
-    //td(name: td 3 up;)
+        bla
+    //td(name: td 1 ;)
+    //td(name: td 2 ;)
+    //td(name: td 3 ;)
+    blabla
 
 
 }
