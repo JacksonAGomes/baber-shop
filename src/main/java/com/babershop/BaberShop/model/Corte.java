@@ -21,8 +21,8 @@ public class Corte {
     private BigDecimal valor;
 
 
-    //td(name: td 1 UPDATE!!;)
-    //td(name: td 2 ;)
+    //td(name: td 1 UPDATE;)
+    //td(name: td 2 UPDATE;)
 
 
 
