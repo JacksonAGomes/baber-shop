@@ -17,9 +17,7 @@ public class Corte {
     private Long id;
 
     private String nome;
-    bla
     private BigDecimal valor;
 
-    //a
 
 }
