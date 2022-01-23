@@ -18,14 +18,6 @@ public class Corte {
 
     private String nome;
     private BigDecimal valor;
-        bla
-    //td(name: td 1 ;)
-    blabla
-
-
-    //td(name: td 3 ;)
-
-    //td(name: outra td diferente ;)
 
 
 
