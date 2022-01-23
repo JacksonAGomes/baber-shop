@@ -19,7 +19,8 @@ public class Corte {
     private String nome;
     private BigDecimal valor;
 
-
+    //td(name: td 1 ;)
+    //td(name: td 2 ;)
 
 
 
