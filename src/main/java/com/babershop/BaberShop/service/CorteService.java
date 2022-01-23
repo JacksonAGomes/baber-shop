@@ -9,17 +9,6 @@ import java.util.List;
 
 @Service
 public class CorteService {
-    //td(name: td 4 ;)
-    //td(name: td 5 UPDATE;)
-    //td(name: td 6 ;)
-
-    //td(name: td 2 UPDATED;)
-    //td(name: td 1 UPDATED;)
-
-    //td(name: td 1 UPDATE;)
-
-    //td(name: td 2 UPDATED!!!;)
-    //td(name: td 1 UPDATED!!!;)
 
 
 
