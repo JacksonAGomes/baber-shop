@@ -20,11 +20,12 @@ public class Corte {
     private BigDecimal valor;
         bla
     //td(name: td 1 ;)
-    //td(name: td 2 ;)
     blabla
 
 
     //td(name: td 3 ;)
+
+    //td(name: outra td diferente ;)
 
 
 
