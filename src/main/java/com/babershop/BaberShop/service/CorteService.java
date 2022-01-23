@@ -30,7 +30,7 @@ public class CorteService {
         Corte corte = this.buscar(corteId);
         corteRepository.delete(corte);
     }
-    blabla
-    //td(name: divida UPDATE!!!!!!!!!;)
-    blabla
+    blabl
+    //td(name: divida ;)
+    bla
 }
