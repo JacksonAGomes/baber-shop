@@ -23,11 +23,7 @@ public class Agendamento {
 
     @CreationTimestamp
     private LocalDateTime dataDoAgentamento;
-    bla2
     private LocalDateTime horaMarcada;
-    //td(name: teste UPDATE!!!!;)
-    //td(name: teste 2;)
-
 
 
 
