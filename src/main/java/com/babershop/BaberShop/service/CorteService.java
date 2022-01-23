@@ -18,7 +18,7 @@ public class CorteService {
 
     //td(name: td 1 UPDATE;)
 
-    //td(name: td 2;)
+    //td(name: td 2 UPDATED;)
 
 
 
