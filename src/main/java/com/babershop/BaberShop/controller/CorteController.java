@@ -67,8 +67,8 @@ public class CorteController {
     //td(name: TD B;)
 
 
-    //td(name:3;)
-    //td(name:4;)
+    //td(name:3 UP;)
+    //td(name:4 UP;)
 
 
 
